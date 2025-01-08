@@ -1,7 +1,7 @@
 /*
 -- World Layoffs Data Exploration
 Skills used: CTE's, Windows Functions, Aggregate Functions
--- Ranking the company based on Maximum Number of peopele Laid off Year wise
+-- Ranking the company based on Maximum Number of peopele Laid off Year wise(2020 - 2023)
 */
 
 select *
